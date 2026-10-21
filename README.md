@@ -9,8 +9,8 @@
 | Miguel | Team Lead / Programmer | @magj09 (https://github.com/magj09) | magj09@nmsu.edu |
 | Aaron | Tester / Programmer | @[name] | aaronchs@nmsu.edu|
 
-##Project Overview
+## Project Overview
 The project is a game inspired by other RPG's like Pokemon and Earthbound but with a Halloween theme to it. 
 
-##Tech Stack
+## Tech Stack
 - Langauge: Python
