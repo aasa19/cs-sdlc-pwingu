@@ -7,7 +7,6 @@
 | Name | Role | GitHub Profile | Contact | 
 | :--- | :--- | :--- | :---|
 | Miguel | Team Lead / Programmer | @magj09 (https://github.com/magj09) | magj09@nmsu.edu |
-
 | Aaron | Tester / Programmer | @[name] | aaronchs@nmsu.edu|
 
 ##Project Overview
