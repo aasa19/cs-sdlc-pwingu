@@ -1,7 +1,7 @@
 # Team Task Log
 - Course: CS SDLC Team Project
-- Team Name: [Pwinghouls]
-- Respository: [https://github.com/magj09/cs-sdlc-pwingu]
+- Team Name: Pwinghouls
+- Respository: https://github.com/magj09/cs-sdlc-pwingu
 
 ## Task Assignment and Completion Log
 | Task ID | SDLC Phase | Task Description | Assigned Member | Target Date | Status | Linked Issue |
@@ -13,10 +13,10 @@
 
 ## Individual Contribution Summaries
 
-### [Miguel]
+### Miguel
 - Phase 1: Configured respository, gitignore, and initial README template.
 - Phase 2: Created UI wireframes.
 
-### [Aaron]
+### Aaron
 - Phase 1: Account setup and board configuration.
 - Phase 2: Authored function requirements, established task log, designed system architecture diagram, and created UI frames.
