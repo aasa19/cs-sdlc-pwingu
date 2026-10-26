@@ -7,7 +7,7 @@
 | Name | Role | GitHub Profile | Contact | 
 | :--- | :--- | :--- | :---|
 | Miguel | Team Lead / Programmer | @magj09 (https://github.com/magj09) | magj09@nmsu.edu |
-| Aaron | Tester / Programmer | @[aasa19] (https://github.com/aasa19) | aaronchs@nmsu.edu |
+| Aaron | Tester / Programmer | @aasa19 (https://github.com/aasa19) | aaronchs@nmsu.edu |
 
 ## Project Overview
 The project is an RPG game inspired from Pokemon and Earthbound with a Halloween theme. 
