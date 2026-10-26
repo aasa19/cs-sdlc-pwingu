@@ -19,4 +19,4 @@
 
 ### Aaron
 - Phase 1: Account setup and board configuration.
-- Phase 2: Authored function requirements, established task log, designed system architecture diagram, and created UI frames.
+- Phase 2: Authored function requirements, established task log, designed system architecture diagram, and created UI wireframes.
