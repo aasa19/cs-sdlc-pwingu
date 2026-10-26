@@ -10,7 +10,7 @@
 | Aaron | Tester / Programmer | @[aasa19] (https://github.com/aasa19) | aaronchs@nmsu.edu |
 
 ## Project Overview
-The project is an RPG game inspired from Pokemon and Earthbound but with a Halloween theme to it. 
+The project is an RPG game inspired from Pokemon and Earthbound with a Halloween theme. 
 
 ## Tech Stack
 - Langauge: Python
