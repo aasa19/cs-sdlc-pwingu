@@ -5,7 +5,7 @@
 
 ## Task Assignment and Completion Log
 | Task ID | SDLC Phase | Task Description | Assigned Member | Target Date | Status | Linked Issue |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--------- | :--- | :--- |
 | T-101 | Phase 1 | GitHub Setup | Miguel | 2026 - 10 - 18 | Completed | #1 |
 | T-102 | Phase 2 | Draft Functional Requirements | Aaron | 2026 - 10 - 25 | Completed | #2 | 
 | T-103 | Phase 2 | Design System Architecture | Aaron | 2026 - 10 - 25 | Completed | #3 |
