@@ -11,11 +11,12 @@
 | T-103 | Phase 2 | System Architecture Diagram | Aaron | 2026 - 10 - 25 | Completed | #3 |
 | T-104 | Phase 2 | UI/UX Screen Wireframes | Miguel | 2026 - 10 - 25 | Completed | #4 |
 | T-105 | Phase 3 | ? | Aaron | 2026 - 11 - 1 | Incomplete | #5
+| T-106 | Phase 3 | ? | Miguel 2026 - 11 - 1 | Incomplete | #6
 
 ## Individual Contribution Summaries
 
 ### Miguel
-- Phase 1: Configured respository, gitignore, and initial README template.
+- Phase 1: Configured respository, gitignore, and README template.
 - Phase 2: Created UI wireframes.
 - Phase 3: ?
 
