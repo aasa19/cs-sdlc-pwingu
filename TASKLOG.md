@@ -11,11 +11,12 @@
 | T-102 | Phase 2 | Draft Functional Requirements | Aaron | Oct. 25 | Completed | #2 | 
 | T-103 | Phase 2 | Design System Architecture | Aaron | Oct. 25 | Completed | #3 |
 | T-104 | Phase 2 | Create UI/UX Screen Wireframes | Miguel | Oct. 25 | Completed | #4 |
-| T-105 | Phase 3 | Implement Core Features | Aaron & Miguel | Nov. 1 | Incomplete | #5
-| T-106 | Phase 3 | Application Setup | Aaron & Miguel | Nov. 1 | Incomplete | #6
-| T-107 | Phase 3 | Create Core Algorithms and Data Structres | Aaron & Miguel | Nov. 1 | Incomplete | #7
-| T-108 | Phase 3 | Develop User Interface | Aaron & Miguel | Nov. 1 | Incomplete | #8
+| T-105 | Phase 3 | Implement Core Features | Aaron & Miguel | Nov. 1 | In Progress | #5
+| T-106 | Phase 3 | Application Setup | Aaron & Miguel | Nov. 1 | In Progress | #6
+| T-107 | Phase 3 | Create Core Algorithms and Data Structres | Aaron & Miguel | Nov. 1 | In Progress | #7
+| T-108 | Phase 3 | Develop User Interface | Aaron & Miguel | Nov. 1 | In Progress | #8
 | T-109 | Phase 3 | Conduct Testing | Aaron & Miguel | Nov. 1 | Incomplete | #9
+| T-110 | Phase 3 | Create Executable File | Aaron | Nov. 1 | In Progress | #9
 
 ## Individual Contribution Summaries
 
