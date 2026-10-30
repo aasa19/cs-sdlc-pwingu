@@ -14,3 +14,7 @@ The project is an RPG game inspired from Pokemon and Earthbound with a Halloween
 
 ## Tech Stack
 - Langauge: Python
+
+## Libraries & Frameworks
+- PyGame
+- PyInstaller
