@@ -16,7 +16,7 @@
 | T-107 | Phase 3 | Create Core Algorithms and Data Structres | Aaron & Miguel | Nov. 1 | In Progress | #7
 | T-108 | Phase 3 | Develop User Interface | Aaron & Miguel | Nov. 1 | In Progress | #8
 | T-109 | Phase 3 | Conduct Testing | Aaron & Miguel | Nov. 1 | Incomplete | #9
-| T-110 | Phase 3 | Create Executable File | Aaron | Nov. 1 | Completed | #9
+| T-110 | Phase 3 | Create Executable File | Aaron | Nov. 1 | Completed | #10
 
 ## Individual Contribution Summaries
 
